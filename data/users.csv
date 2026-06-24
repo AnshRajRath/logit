@@ -1,0 +1,4 @@
+users,action,time
+alice,login,2024-06-01 08:30:00
+bob,logout,2024-06-01 09:15:00
+charlie,download,2024-06-01 10:00:00
